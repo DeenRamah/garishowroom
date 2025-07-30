@@ -1,6 +1,6 @@
 # 🚗 Deen Car Showroom — Modern ReactJS Auto E-commerce Platform
 
-![deen-car-showroom](https://socialify.git.ci/0Deen/garisafiapp/image?custom_language=React&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Auto)
+![deen-car-showroom](https://socialify.git.ci/DeenRamah/garishowroom/image?custom_language=React&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Auto)
 
 ## 📌 Live Demo  
 https://garisafiapp.vercel.app/
